@@ -1,0 +1,34 @@
+ZUKO
+100
+Fire Blast
+Sunny Day
+Fire Charge up
+Lightning Bolt
+
+KATARA
+100
+Water Whip
+Heal
+Ice breath
+Water Boost
+
+TOPH
+120
+Rock Pellets
+Bolder Toss
+Earth Absorbtion
+Rock Charge
+
+SOKKA
+150
+Power Kick
+Mighty Punch
+Boomerang
+Hope
+
+AANG
+120
+Air Blast
+Air Swipes
+Air Charge
+Precision Strike
