@@ -6,4 +6,4 @@ including a sound manager, multiple characters. An AI bot to fight, interesting 
 You can edit the name of abilitys and the health of characters through the .txt file in the src
 
 VIDEO OF GAME:
-https://www.youtube.com/watch?v=TwSXrKuHHlk
+(https://youtu.be/urIY7OMGdqk?si=NdSv6ox3HyfyrHKg)
